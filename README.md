@@ -1,4 +1,4 @@
-# HydroPiezo_return_analysis# 🌊 HydroPiezo
+# 🌊 HydroPiezo_return_analysis
 **Automated groundwater level and return period analysis**
 
 HydroPiezo is a Python toolkit for analyzing piezometric (groundwater level) time series, identifying annual maxima, estimating extreme values using the Gumbel distribution, and generating descriptive summary sheets combining time series plots, hydrological statistics, and geospatial map context.
