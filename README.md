@@ -37,5 +37,5 @@ The analysis follows standard hydrological frequency analysis steps:
 
 ---
 <p align="center">
-  <img src="results_test/test_data_treatment_return_time" width="800">
+  <img src="results_test/test_data_treatment_return_time.png" width="800">
 </p>
